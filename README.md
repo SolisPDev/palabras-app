@@ -1,16 +1,26 @@
-# flutter_app
 
-A new Flutter project.
+# Palabras Favoritas
 
-## Getting Started
+Este proyecto es un generador de palabras al azar donde puedes seleccionar tus favoritas. 
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Que se puso en practica
+ 1. Declaraciones y Asignaciones
+ 2. Condicionales
+ 3. Utilización de control de flujo con switch
+ 4. Implementación de clases
+ 5. Utilizando herencia
+
+## 🛠 Skills
+Flutter, Dart...
+
+🌱 I’m currently learning ... Web development!!
+
+🌱 I’m currently learning ... in OracleNextEducation
+
+![Grupo 7 ONE](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
+![Grupo 7 ONE](https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg)
