@@ -5,7 +5,9 @@ Este proyecto es un generador de palabras al azar donde puedes seleccionar tus f
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![screenshot-1](https://github.com/user-attachments/assets/f3edc2e4-dc53-49c9-ae18-ba1588b1d140)
+
+![screenshot-2](https://github.com/user-attachments/assets/2681e99f-bb5e-4e87-b408-29dcf8d743cb)
 
 
 ## Que se puso en practica
